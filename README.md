@@ -58,6 +58,7 @@ This project helps in predicting student performance using machine learning. It 
 <img width="743" height="576" alt="image" src="https://github.com/user-attachments/assets/de38479c-9103-4b84-b20d-e7c17fbc4fa1" />
 <img width="659" height="501" alt="image" src="https://github.com/user-attachments/assets/0b188fb4-2068-4b6c-8790-e2f482ad1b30" />
 <img width="748" height="576" alt="image" src="https://github.com/user-attachments/assets/3c31588d-1f74-4140-9205-fdaeeff729de" />
+<img width="785" height="577" alt="image" src="https://github.com/user-attachments/assets/2984422f-bcde-49cf-996d-b7b8ec0cb26d" />
 
 
 
