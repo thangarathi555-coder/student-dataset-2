@@ -56,6 +56,7 @@ Conclusion
 
 This project helps in predicting student performance using machine learning. It can assist teachers and institutions in identifying students who need extra support, improving overall academic outcomes.
 <img width="743" height="576" alt="image" src="https://github.com/user-attachments/assets/de38479c-9103-4b84-b20d-e7c17fbc4fa1" />
+<img width="659" height="501" alt="image" src="https://github.com/user-attachments/assets/0b188fb4-2068-4b6c-8790-e2f482ad1b30" />
 
 
 
